@@ -1,0 +1,15 @@
+[database]
+host = localhost
+username = root
+password =
+name = micropos
+
+[application]
+siteurl = http://localhost
+sessionprefix = micropos_
+;Status must be either maintenance or live
+status = live
+;Error reporting must be all or none
+errors = all
+;Name of the application's configuration table name
+config_table = system_config
