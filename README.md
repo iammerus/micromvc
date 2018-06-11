@@ -1,4 +1,4 @@
-# MicroPOS (name subject to change)#
+# MicroMVC (name subject to change)#
 ## System Outline ##
 
 ----------
