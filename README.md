@@ -1,4 +1,6 @@
 # MicroMVC (name subject to change)#
+# A simple, fast MVC PHP framework #
+
 ## System Outline ##
 
 ----------
